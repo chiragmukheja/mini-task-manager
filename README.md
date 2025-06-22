@@ -78,7 +78,6 @@ Open http://localhost:3000
 
 ### 📡 API Reference
 Base URL (dev): http://localhost:5000
-Base URL (prod): https://your-backend.onrender.com
 
 GET /tasks
 Returns all tasks (most recent first)
